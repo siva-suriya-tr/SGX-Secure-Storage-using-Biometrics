@@ -1,4 +1,4 @@
-"# SGX-Secure-Storage-using-Biometrics" 
+# SGX-Secure-Storage-using-Biometrics
 
 Term Paper and Project for CSEC 659 Trusted Computing.
 
